@@ -14,3 +14,15 @@ body{
 .m-auto{
     margin: auto;
 }
+.align-c{
+    display: flex;
+    align-items: center;
+}
+.name{
+    margin-top: 10px;
+    width: 35%;
+    margin-bottom: 10px;
+}
+pe{
+    margin-right: 20px;
+}
