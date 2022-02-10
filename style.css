@@ -100,6 +100,7 @@ margin-left: 44%;
 }
 .tg{
     color: green;
+    margin-left: 5px;
 }
 .tr{
     color: gray;
@@ -110,4 +111,7 @@ margin-left: 44%;
 }
 .tb{
     color: blue;
+}
+.m-b-5{
+    margin-bottom: 0;
 }
