@@ -31,11 +31,13 @@ body{
 .m-top{
     margin-top: 150px;
 }
-.header-1{
+.header-2{
     background-color: #f2f2f2;
     width: 100%;
     position: absolute;
     top: 0;
+    z-index: 1;
+    height: 50px;
 }
 .t-c{
     text-align: center;
@@ -60,4 +62,27 @@ margin-left: 44%;
 }
 .ssp{
     width: 100px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 2px;
+}
+.sp{
+    height: 20px;
+    width: 300px;
+    align-self: center;
+}
+.header-1{
+    background-color: #f2f2f2;
+    width: 100%;
+    position: absolute;
+    top: 0;
+    z-index: 1;
+    height: 50px;
+}
+.pp{
+    margin-left: 5px;
+}
+.d-f-c{
+    display: flex;
+    flex-direction: column;
 }
