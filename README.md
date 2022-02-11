@@ -10,7 +10,7 @@ this website is made with html5 and css3
 
 ## Live Demo
 
-[Live Demo Link](https://abdullah-fullstackdev.github.io/sell-it/)
+[Live Demo Link](https://abdullah-fullstackdev.github.io/google.com/)
 
 ## Getting Started
 
